@@ -6,8 +6,8 @@ import "./globals.css";
 const outfit = Outfit({ subsets: ["latin"], weight: ["400", "500", "600"] });
 
 export const metadata = {
-    title: "GoCart. - Shop smarter",
-    description: "GoCart. - Shop smarter",
+    title: "Bellore Crafts - Traditional Maasai Jewelry",
+    description: "Bellore Crafts brings authentic Maasai beads, handcrafted jewelry, and artisan accessories to customers around the world.",
 };
 
 export default function RootLayout({ children }) {
